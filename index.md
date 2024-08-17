@@ -8,7 +8,7 @@ I am an M.S. student at the [Department of Mechanical and Process Engineering](h
 
 ## Research interests
 
-I am interested in interdisciplinary research centered around fluid mechanics, including wall-bounded turbulence, particle-laden flows, and multiphase flows, using direct numerical simulation, large eddy simulation, or Reynolds-averaged Navier-Stokes equations. By developing numerical tools, I aim to distill the chaotic and complex nature of turbulent flows into simple yet fundamental mechanisms that yield physical insights into fluid flows in various engineering contexts.
+I am interested in interdisciplinary research centered around fluid mechanics, including wall-bounded turbulence, particle-laden flows, and multiphase flows, using direct numerical simulation, large eddy simulation, or Reynolds-averaged Navier-Stokes models. By developing numerical tools, I aim to distill the chaotic and complex nature of turbulent flows into simple yet fundamental mechanisms that yield physical insights into fluid flows in various engineering contexts.
 
 Outside fluid mechanics, I am also interested in statistics, especially in probability density estimation. I worked with [Daniel Meyer](https://ifd.ethz.ch/people/person-detail.OTM2MDU=.TGlzdC80NzkwLDEwMTQwMjU1NDg=.html) at the [Institute of Fluid Dynamics](https://ifd.ethz.ch), ETH Zürich, on developing a smooth and adaptive density estimator in uni- and bivariate probability spaces based on the distribution element tree method.
 
