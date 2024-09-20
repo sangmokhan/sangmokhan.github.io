@@ -4,7 +4,7 @@ layout: homepage
 
 ## Biography
 
-I am an M.S. student at the [Department of Mechanical and Process Engineering](https://mavt.ethz.ch), ETH Zurich. Previously, I obtained a B.S. in Mechanical Engineering at the [Department of Mechanical Engineering](https://mechanical.eng.unimelb.edu.au), The University of Melbourne.
+I am an M.S. student at the [Department of Mechanical and Process Engineering](https://mavt.ethz.ch), ETH Zurich. Previously, I obtained a B.S. in Mechanical Engineering from The University of Melbourne.
 
 I am currently writing my master's thesis at the [Laboratory for Simulation and Modeling](https://www.psi.ch/en/lsm/cfd-group), Paul Scherrer Institute.
 
