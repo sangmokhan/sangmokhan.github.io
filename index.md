@@ -6,11 +6,11 @@ layout: homepage
 
 I am an M.S. student at the [Department of Mechanical and Process Engineering](https://mavt.ethz.ch), ETH Zurich. Previously, I obtained a B.S. in Mechanical Engineering from [The University of Melbourne](https://eng.unimelb.edu.au).
 
-I am currently writing my master's thesis at the [Laboratory for Simulation and Modeling](https://www.psi.ch/en/lsm/cfd-group), Paul Scherrer Institute.
+I am currently conducting my master's thesis at the [Laboratory for Simulation and Modeling](https://www.psi.ch/en/lsm/cfd-group), Paul Scherrer Institute.
 
 ## Research interests
 
-I am interested in interdisciplinary research centered around fluid mechanics, including turbulent flows and particle-laden flows, using direct numerical simulation, large eddy simulation, or Reynolds-averaged Navier-Stokes models. By developing numerical tools, I aim to distill the chaotic and complex nature of turbulent flows into meaningful physical insights into various engineering contexts.
+I am interested in interdisciplinary research centered around fluid mechanics, including wall-bounded turbulent flows, particle-laden flows, and bluff body aerodynamics. By performing high-fidelity numerical simulations, I aim to distill the complexity of turbulent flows into fundamental characteristics that advance our understanding and computational modeling of turbulence.
 
 Outside fluid mechanics, I am also interested in statistics, especially in probability density estimation. I worked with [Daniel Meyer](https://ifd.ethz.ch/people/person-detail.OTM2MDU=.TGlzdC80NzkwLDEwMTQwMjU1NDg=.html) at the [Institute of Fluid Dynamics](https://ifd.ethz.ch), ETH Zurich, on developing a smooth and adaptive density estimator in uni- and bivariate probability spaces based on the distribution element tree method.
 
