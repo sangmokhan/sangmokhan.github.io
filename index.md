@@ -6,7 +6,7 @@ layout: homepage
 
 I am an M.S. student in Mechanical Engineering at [ETH Zurich](https://mavt.ethz.ch). Previously, I obtained a B.S. in Mechanical Engineering from [The University of Melbourne](https://eng.unimelb.edu.au).
 
-I am currently working on my master's thesis at the [Laboratory for Simulation and Modeling](https://www.psi.ch/en/lsm/cfd-group), Paul Scherrer Institute.
+I will be joining the [Environmental Flow Physics Lab](https://efpl.engineering.columbia.edu) at Columbia University as a Ph.D. student in Fall 2025.
 
 ## Research interests
 
