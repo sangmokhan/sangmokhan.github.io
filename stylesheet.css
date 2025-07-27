@@ -19,11 +19,6 @@ a {
   font-size: 14px;
 }
 
-strong {
-  font-family: Verdana, sans-serif;
-  font-size: 14px;
-}
-
 h2 {
   margin: 0;
   font-weight: normal;
@@ -36,6 +31,7 @@ cite {
   font-family: Verdana, sans-serif;
   font-size: 14px;
   text-indent: 5em;
+  display: block;
 }
 
 .name {
