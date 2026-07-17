@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# SangMok Han — Academic Website
+
+Source code for SangMok Han's academic website, hosted with GitHub Pages.
